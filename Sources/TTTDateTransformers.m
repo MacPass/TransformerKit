@@ -25,7 +25,7 @@
 #import <TransformerKit/NSValueTransformer+TransformerKit.h>
 
 @import Darwin.C.time;
-@import Darwin.C.xlocale;
+#import <xlocale.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

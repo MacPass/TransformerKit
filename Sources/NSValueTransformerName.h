@@ -20,7 +20,7 @@
 // OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 // THE SOFTWARE.
 
-@import Darwin.Availability;
+#import <Availability.h>
 
 #ifndef NSValueTransformerName_h
 #define NSValueTransformerName_h
